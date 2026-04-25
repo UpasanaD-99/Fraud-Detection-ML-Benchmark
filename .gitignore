@@ -1,0 +1,38 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# =========================
+# R files
+# =========================
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
