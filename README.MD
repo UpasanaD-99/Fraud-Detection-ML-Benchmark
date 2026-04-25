@@ -409,6 +409,7 @@ This project was developed collaboratively by:
 - [Shivam Kochhar](https://github.com/ShivamKochh)
 - [Nneamaka Oluonye](https://github.com/NneamakaOluonye)
 - [Lohit Ashwa](https://github.com/Lohit20)
+- [Amarjeet Kushwaha](https://github.com/amsender)
 
 ## 📌 Note
 This repository is a personal copy of a group project, uploaded for portfolio purposes.  
