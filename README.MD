@@ -1,5 +1,7 @@
 # Fraud Detection Model Benchmarking
 
+> ℹ️ This project was developed collaboratively. Contributors section is listed below.
+
 This project presents a comparative study of ensemble aggregation strategies and advanced supervised models for detecting fraudulent e-commerce transactions in a highly imbalanced dataset. For more detailed information, please refer to the full project report:  
 [Project Report](Project%20Report.pdf)
 
@@ -400,3 +402,14 @@ Key conclusions:
 
 ---
 
+## 👥 Contributors
+This project was developed collaboratively by:
+
+- [Upasana Das](https://github.com/UpasanaD-99)
+- [Shivam Kochhar](https://github.com/ShivamKochh)
+- [Nneamaka Oluonye](https://github.com/NneamakaOluonye)
+- [Lohit Ashwa](https://github.com/Lohit20)
+
+## 📌 Note
+This repository is a personal copy of a group project, uploaded for portfolio purposes.  
+All original contributors are credited above.
